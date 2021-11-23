@@ -407,4 +407,5 @@ Ver: https://github.com/simonmonk/programming_arduino_ed2
 * https://github.com/tomasdecamino/CursoArduinoIntermedio
 * https://gist.github.com/bankhonggioidotcom/27a33d23db2594e32e8d73096170f652
 * https://github.com/mikeroyal/Arduino-Guide
+* https://github.com/simonmonk/arduino_course_es
 
